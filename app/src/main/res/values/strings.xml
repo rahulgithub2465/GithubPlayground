@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GithubPlayground</string>
+    <string name="capture_again">Capture Again!</string>
+    <string name="storage_full">Storage Full!</string>
+    <string name="pick_file">Pick File</string>
+    <string name="file_size_error">File Size Error</string>
+    <string name="no_records">No Records :(</string>
 </resources>
